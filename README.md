@@ -1,2 +1,1 @@
-# Alisys
-# Pepper robot solution for events
+# Alisys - Pepper robot solution for events
